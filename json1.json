@@ -1,0 +1,19 @@
+{
+  "Loans": [
+    {
+      "LoanAmount": 200000,
+      "PeriodInMonths": 24,
+      "InterestRateIn%": 4
+    },
+    {
+      "LoanAmount": 400000,
+      "PeriodInMonths": 48,
+      "InterestRateIn%": 2
+    },
+    {
+      "LoanAmount" : 3500000,
+      "PeriodInMonths" : 300,
+      "InterestRateIn%" : 7
+    }
+    ]
+}
