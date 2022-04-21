@@ -1,4 +1,4 @@
-# Test assignment for Programmnie Technologii
+# Test assignment for Program Technologies
 
 Program to calculate cumulative interest paid on a loan in specified period of time. 
 
