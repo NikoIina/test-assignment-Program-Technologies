@@ -12,4 +12,4 @@ Can be run in terminal with the following command:
 
 python total_interest.py filename.json
 
-Note: Please note the format of information inside json file.
+Note: Please note the format of data inside json file.
